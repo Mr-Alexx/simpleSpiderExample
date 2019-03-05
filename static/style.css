@@ -1,0 +1,32 @@
+body {
+  padding: 0 15px;
+  width: 100%;
+  letter-spacing: 1px;
+  line-height: 1.8;
+}
+@media screen and (min-width: 700px) {
+  body {
+    width: 700px;
+    margin: 0 auto;
+  }
+}
+.article-title {
+  text-align: center;
+  font-size: 30px;
+  margin: 40px 0;
+}
+.article-content h1,  .article-content h2{
+  padding-bottom: 12px;
+  font-size: 24px;
+  border-bottom: 1px solid #ececec;
+}
+.article-content p {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+.article-content ol {
+  padding-left: 15px;
+}
+.article-content li {
+  margin: 10px 0;
+}

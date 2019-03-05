@@ -13,5 +13,5 @@ npm start
 npm i supervisor -g
 ```
 ```
-npm super
+npm run super
 ```
